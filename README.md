@@ -5,3 +5,5 @@
 
 ![Screenshot from 2023-10-08 22-55-59](https://github.com/Anudeep02/Weather-app/assets/74246826/651eea09-95a3-4c09-9b31-4b9388a45bc2)
 
+
+![Screenshot from 2023-10-08 22-57-54](https://github.com/Anudeep02/Weather-app/assets/74246826/86abba6f-11fb-4f38-b58b-4368ace6f51f)
